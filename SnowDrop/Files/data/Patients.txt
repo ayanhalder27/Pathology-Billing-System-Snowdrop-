@@ -1,0 +1,6 @@
+nazah khan;25;12;2003;Female;01645955888;Dr. Subrata
+Apu Halder;27;5;2003;Female;01712949459;Dr. Kuddush
+Galib;24;3;2002;Male;01706349030;Dr. Rana
+Rozin;15;3;2003;Gay;01950658206;Dr. Mahmud
+rohan kazi;12;7;2011;Male;01547896523;Dr. najim
+Nusrat;24;2;2003;Female;01823367937;Dr. Abol Tabol

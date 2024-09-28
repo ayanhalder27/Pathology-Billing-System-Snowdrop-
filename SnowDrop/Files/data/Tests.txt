@@ -1,0 +1,172 @@
+#TID01;Urine for R/E M/E;300.0
+#TID02;Urine for R/E M/E (Auto Chemistry);600.0
+#TID03;Urine for Pregnancy;300.0
+#TID04;Urine for Microalbumin;1500.0
+#TID05;Urine for Albumin/Protein;200.0
+#TID06;Urine for 24 hours Total Protein;2000.0
+#TID07;Urine for Sugar (Glucose);200.0
+#TID08;Urine for Nitrite;200.0
+#TID09;Urine for Specific Gravity;200.0
+#TID10;Urine for pH;200.0
+#TID11;Urine for Ketone Bodies (Acetone);1000.0
+#TID12;Urine for Urobilinogen;600.0
+#TID13;Urine for Creatinine;500.0
+#TID14;Urine for Bilirubin (Bile Pigment);200.0
+#TID15;Urine for Bence Jones Protein;800.0
+#TID16;Urine for PCR (Protein Creatinine Ratio);1800.0
+#TID17;Urine for ACR (Albumin Creatinine Ratio);1500.0
+#TID18;γGT (Gama GT);1500.0
+#TID19;Urine for Amylase;1500.0
+#TID20;Blood Grouping & Rh Factor;200.0
+#TID21;Blood for Hb%;300.0
+#TID22;Blood for ESR;200.0
+#TID23;Blood for TC of WBC;200.0
+#TID24;Blood for DC of WBC;200.0
+#TID25;Blood for TC DC ESR Hb% (Manual);400.0
+#TID26;CBC with ESR (Cell Counter);700.0
+#TID27;CBC (Cell Counter: Hb, TC, DC, RBC, Platelet, MCH, MCV, MCHC, HCT);600.0
+#TID28;Blood for Platelet Count;400.0
+#TID29;Total Circulating Eosinophil Count (TCE);400.0
+#TID30;Peripheral Blood Film (PBF);1000.0
+#TID31;Bleeding Time (BT);300.0
+#TID32;Clotting Time (CT);300.0
+#TID33;Prothrombin Time (PT);1200.0
+#TID34;Blood Cross Matching (Without Screening);800.0
+#TID35;Blood Cross Matching With (HBsAg, Syphilis, MP, HCV, HIV);3000.0
+#TID36;Rh Antibody Titre;1500.0
+#TID37;Hb Electrophoresis;3000.0
+#TID38;Protein Electrophoresis;3200.0
+#TID39;APTT;1500.0
+#TID40;Fibrinogen;2000.0
+#TID41;Comb Test;1500.0
+#TID42;Aldehyde Test;1500.0
+#TID43;FBS (Fasting Blood Sugar);200.0
+#TID44;Blood Glucose 2 Hours After Meal;200.0
+#TID45;RBS (Random Blood Sugar);200.0
+#TID46;PPBS (Post Prandial Blood Sugar);200.0
+#TID47;Blood Glucose 2 Hrs after meal with 75 gm glucose (Drink);250.0
+#TID48;OGTT;600.0
+#TID49;CUS (Corresponding Urine Sugar);100.0
+#TID50;HbA1C;1400.0
+#TID51;RFT (S.Urea, S.Creatinine);1200.0
+#TID52;S. Urea;600.0
+#TID53;S. Creatinine;500.0
+#TID54;BUN (Blood Urea Nitrogen);600.0
+#TID55;CCR (Creatinine Clearance Rate);1500.0
+#TID56;S. Lipid Profile (Fasting);1400.0
+#TID57;S. Total Cholesterol (TC);600.0
+#TID58;S. Triglyceride (TG);700.0
+#TID59;S. HDL Cholesterol;600.0
+#TID60;LFT (S. Total Bilirubin, S.GPT, S.GOT, S.ALP);1800.0
+#TID61;S. Total Bilirubin;500.0
+#TID62;S.GPT (ALT);600.0
+#TID63;S.GOT (AST);600.0
+#TID64;S. Alkaline Phosphatase (ALP);600.0
+#TID65;S. Bilirubin Profile (Total, Direct & Indirect Bilirubin);1200.0
+#TID66;S. Total Protein;700.0
+#TID67;S. Albumin;700.0
+#TID68;Protein Profile (Total Protein, Albumin, Globulin, A/G Ratio);1400.0
+#TID69;S. Uric Acid;700.0
+#TID70;S. Amylase;1500.0
+#TID71;S. Lipase;2000.0
+#TID72;S. Acid Phosphatase;1500.0
+#TID73;S. Phosphates (Inorganic PO4);1500.0
+#TID74;S. Electrolytes (Na, K, Cl);1500.0
+#TID75;S. Calcium;800.0
+#TID76;S. Lithium;1500.0
+#TID77;S. CPK (Creatinine Phospho Kinase);1500.0
+#TID78;S. CK_MB;1500.0
+#TID79;S. LDH;1500.0
+#TID80;Widal Test;600.0
+#TID81;Triple Antigen / Febrile Antigen;1500.0
+#TID82;ASO Titre (Latex);600.0
+#TID83;ASO Titre (Auto);1000.0
+#TID84;RA/RF Test (Latex);600.0
+#TID85;RA/RF Test (Auto);1000.0
+#TID86;CRP (Latex);700.0
+#TID87;CRP Titre (Auto);1500.0
+#TID88;Rose Waller Test;1500.0
+#TID89;VDRL;600.0
+#TID90;VDRL (Titre);1200.0
+#TID91;TPHA (ICT);800.0
+#TID92;TPHA (Titre);1600.0
+#TID93;Hepatitis Panel;20000.0
+#TID94;HBsAg (ICT);500.0
+#TID95;HBsAg (ELISA);1200.0
+#TID96;HBeAg (ICT);1200.0
+#TID97;Anti HBe (Total);1500.0
+#TID98;Anti HBs;1500.0
+#TID99;HBc Total;1500.0
+#TID100;HBc IgM;1500.0
+#TID101;Anti HCV (HCV Ab);1500.0
+#TID102;Anti HEV IgM;1500.0
+#TID103;Anti HEV IgG;1500.0
+#TID104;HBV DNA (PCR);12000.0
+#TID105;HCV RNA (PCR);17000.0
+#TID106;HCV RNA + Genotyping (2 Test) IgM, IgG;18000.0
+#TID107;HIV Test / AIDS Test;1300.0
+#TID108;TORCH Panel;15000.0
+#TID109;Toxo Gondi IgM;2000.0
+#TID110;Toxo Gondi IgG;2000.0
+#TID111;Rubella IgM;2000.0
+#TID112;Rubella IgG;2000.0
+#TID113;Cytomegalo Virus (CMV) IgM;2000.0
+#TID114;Cytomegalo Virus (CMV) IgG;2000.0
+#TID115;Herpes Simplex Virus (HSV_1);5000.0
+#TID116;IgM Herpes Simplex Virus (HSV_1) IgG;26000.0
+#TID117;Herpes Simplex Virus (HSV_2);5000.0
+#TID118;IgM Herpes Simplex Virus (HSV_2) IgG;26000.0
+#TID119;H.Pylori Antigen;1000.0
+#TID120;H.Pylori IgM;2000.0
+#TID121;H.Pylori IgG;2000.0
+#TID122;Dengue NS1 Antigen;1500.0
+#TID123;Dengue IgM;1500.0
+#TID124;Dengue IgG;1500.0
+#TID125;Chikungunya IgM;2000.0
+#TID126;Chikungunya IgG;2000.0
+#TID127;Malaria Test;1000.0
+#TID128;Thyroid Profile (T3, T4, TSH);1800.0
+#TID129;T3 (Tri-iodothyronine);500.0
+#TID130;T4 (Thyroxine);500.0
+#TID131;TSH (Thyroid Stimulating Hormone);500.0
+#TID132;Serum Testosterone;1500.0
+#TID133;Serum Progesterone;2000.0
+#TID134;Serum Estradiol;2000.0
+#TID135;Serum Cortisol;1500.0
+#TID136;S. Luteinizing Hormone (LH);1500.0
+#TID137;S. Follicle Stimulating Hormone (FSH);1500.0
+#TID138;S. Prolactin;1500.0
+#TID139;S. Insulin;1500.0
+#TID140;Vitamin D (25-OH D);2000.0
+#TID141;Vitamin B12;1800.0
+#TID142;Folate;1500.0
+#TID143;Vitamin A;2000.0
+#TID144;Serum Zinc;1500.0
+#TID145;Serum Iron;1500.0
+#TID146;Serum Ferritin;1500.0
+#TID147;Serum Magnesium;1500.0
+#TID148;Calcium (Ionized);2000.0
+#TID149;Urine Culture;1500.0
+#TID150;Blood Culture;2000.0
+#TID151;Sputum Culture;1500.0
+#TID152;Stool Culture;1500.0
+#TID153;Tissue Culture;2000.0
+#TID154;AFB Culture;2000.0
+#TID155;Swab Culture;2000.0
+#TID156;HIV Confirmatory Test (3rd Generation);8000.0
+#TID157;HIV Confirmatory Test (4th Generation);15000.0
+#TID158;Syphilis (VDRL);600.0
+#TID159;Syphilis (RPR);600.0
+#TID160;Syphilis (TPHA);600.0
+#TID161;Hepatitis (Anti HCV);600.0
+#TID162;SARS-CoV-2 (COVID-19) Antigen;1800.0
+#TID163;SARS-CoV-2 (COVID-19) Antibody;1800.0
+#TID164;COVID-19 PCR;1800.0
+#TID165;COVID-19 Rapid Antigen Test;600.0
+#TID166;COVID-19 Antibody Test;1800.0
+#TID167;Blood Test for COVID-19;600.0
+#TID168;SARS-CoV-2 (COVID-19) RT-PCR;2000.0
+#TID169;SARS-CoV-2 (COVID-19) Nasopharyngeal Swab;2000.0
+#TID170;SARS-CoV-2 (COVID-19) Saliva Test;2000.0
+#TID171;SARS-CoV-2 (COVID-19) Rapid Antigen Nasal Swab;600.0
+#TID172;SARS-CoV-2 (COVID-19) Rapid Antigen Saliva Test;600.0
