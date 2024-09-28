@@ -1,7 +1,0 @@
-Ayan Halder;27;5;2003;Male;01611237016;ayanhalder2705@gmail.com;Dhaka;ayanhalder2705;12345678;Owner
-Nazah Khan;25;12;2005;Female;01711237016;naza@gmail.com;Dhaka;naza;12345678;Employee
-ayat;25;9;1999;Female;01458679235;ayat@gmail.com;bhootbari;ayat;456852;Employee
-hasib single;12;10;2003;Male;01478569236;hasib@gmail.com;rajsahi;hasib;789456;Employee
-nazah khan;12;12;2000;Female;01714384203;afroza@gmail.com;brahmanbaria;afroza;159753;Owner
-talha  chowdhury;3;9;2003;Male;01234567891;mohtasim@gmail.com;dhaka;mohtasim;12345678;Owner
-mahi  khan;12;11;2000;Other;01478523690;khan@gmail.com;bhootnagar;khan;123456;Employee

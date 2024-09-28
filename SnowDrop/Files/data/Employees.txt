@@ -1,4 +1,0 @@
-Nazah Khan;25;12;2005;Female;01711237016;naza@gmail.com;Dhaka;naza;12345678;Employee
-ayat;25;9;1999;Female;01458679235;ayat@gmail.com;bhootbari;ayat;456852;Employee
-hasib single;12;10;2003;Male;01478569236;hasib@gmail.com;rajsahi;hasib;789456;Employee
-mahi  khan;12;11;2000;Other;01478523690;khan@gmail.com;bhootnagar;khan;123456;Employee

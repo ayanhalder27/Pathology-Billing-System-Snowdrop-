@@ -1,3 +1,0 @@
-Ayan Halder;27;5;2003;Male;01611237016;ayanhalder2705@gmail.com;Dhaka;ayanhalder2705;12345678;Owner
-nazah khan;12;12;2000;Female;01714384203;afroza@gmail.com;brahmanbaria;afroza;159753;Owner
-talha  chowdhury;3;9;2003;Male;01234567891;mohtasim@gmail.com;dhaka;mohtasim;12345678;Owner
