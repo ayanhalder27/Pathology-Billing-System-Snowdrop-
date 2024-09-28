@@ -1,0 +1,25 @@
+Apolo Diagnostic Centre
+	Invoice
+
+Patient Information: 
+----------------------------
+Name: Rozin
+Date of Birth: 15.3.2003
+Age: 21
+Sex: Gay
+Phone Number: 01950658206
+Doctor Name: Dr. Mahmud
+----------------------------
+
+
+Test ID		Test Name			Price
+
+12		Autrasonography			600.0
+2		asf			300.0
+13		gfjf			300.0
+35		test			200.0
+
+
+				Subtotal: 1400.0
+				Discount: 400
+				Total: 1000.0
